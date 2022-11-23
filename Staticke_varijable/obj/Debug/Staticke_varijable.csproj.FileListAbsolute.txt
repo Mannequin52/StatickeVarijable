@@ -1,0 +1,7 @@
+C:\Users\korisnik\source\repos\Staticke_varijable\obj\Debug\Staticke_varijable.csproj.AssemblyReference.cache
+C:\Users\korisnik\source\repos\Staticke_varijable\obj\Debug\Staticke_varijable.csproj.CoreCompileInputs.cache
+C:\Users\korisnik\source\repos\Staticke_varijable\bin\Debug\Staticke_varijable.exe.config
+C:\Users\korisnik\source\repos\Staticke_varijable\bin\Debug\Staticke_varijable.exe
+C:\Users\korisnik\source\repos\Staticke_varijable\bin\Debug\Staticke_varijable.pdb
+C:\Users\korisnik\source\repos\Staticke_varijable\obj\Debug\Staticke_varijable.exe
+C:\Users\korisnik\source\repos\Staticke_varijable\obj\Debug\Staticke_varijable.pdb
